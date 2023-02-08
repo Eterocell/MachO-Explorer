@@ -1,9 +1,9 @@
 [submodule "Configuration"]
 	path = Configuration
-	url = https://github.com/DeVaukz/xcconfigs.git
+	url = https://github.com/Eterocell/xcconfigs.git
 [submodule "External/MachO-Kit"]
 	path = External/MachO-Kit
-	url = https://github.com/DeVaukz/MachO-Kit.git
+	url = https://github.com/Eterocell/MachO-Kit.git
 [submodule "External/WAYWindow"]
 	path = External/WAYWindow
-	url = https://github.com/weAreYeah/WAYWindow.git
+	url = https://github.com/Eterocell/WAYWindow.git

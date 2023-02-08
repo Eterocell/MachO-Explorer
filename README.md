@@ -1,10 +1,10 @@
 <p align="center">
-    <img width="850" height="171" src="https://raw.githubusercontent.com/DeVaukz/MachO-Explorer/master/.github/banner.png">
+    <img width="850" height="171" src="https://raw.githubusercontent.com/Eterocell/MachO-Explorer/master/.github/banner.png">
 </p>
 
 Mach-O Explorer is a graphical Mach-O viewer for macOS.  It aims to provide an interface and feature set that are similar to the venerable [MachOView](http://sourceforge.net/projects/machoview/) application.  Parsing is handled by Mach-O Kit.  Mach-O Explorer leverages Mach-O Kit's rich description system to present the parsed data using very little code.
 
-![Screenshot](https://raw.githubusercontent.com/DeVaukz/MachO-Explorer/master/.github/hero.png)
+![Screenshot](https://raw.githubusercontent.com/Eterocell/MachO-Explorer/master/.github/hero.png)
 
 Mach-O Explorer should deploy back to OS X 10.11 (and possibly further) but is *currently* only being actively tested on macOS 10.14.
 
@@ -25,7 +25,7 @@ Mach-O Explorer should deploy back to OS X 10.11 (and possibly further) but is *
 ***Use a recursive git clone***.
 
 ```
-git clone --recursive https://github.com/DeVaukz/MachO-Explorer
+git clone --recursive https://github.com/Eterocell/MachO-Explorer
 ```
 
 Open the `MachOExplorer.xcodeproj` file, select the `MachOExplorer` target and click Run.
@@ -33,4 +33,4 @@ Open the `MachOExplorer.xcodeproj` file, select the `MachOExplorer` target and c
 ## License
 
 Mach-O Explorer is released under the MIT license. See
-[LICENSE.md](https://github.com/DeVaukz/MachO-Explorer/blob/master/LICENSE).
+[LICENSE.md](https://github.com/Eterocell/MachO-Explorer/blob/master/LICENSE).
